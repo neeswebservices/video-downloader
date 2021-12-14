@@ -1,6 +1,6 @@
- # PNG to ICON program for desktop
+ # Youtube video downloader 
 
 # you can download the setup file from the gihub and install
 # into your computer ..
-
-you can find the executable file into the repo or in my mediafire !!
+ 
+ this is the application to downlowd the videos and audios using my application !
